@@ -1,5 +1,6 @@
 // Create an application module for our demo.
 var app = angular.module("Demo", ["ngAnimate"]);
+
 // -------------------------------------------------- //
 // -------------------------------------------------- //
 // SIMULATING NETWORK LATENCY AND LOAD TIME. We haven't included the ngApp

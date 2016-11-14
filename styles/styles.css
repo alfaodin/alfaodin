@@ -1,0 +1,11 @@
+div.m-app-loading {
+  position: fixed; }
+  div.m-app-loading div.animated-container {
+    background-color: #333333;
+    bottom: 0px;
+    left: 0px;
+    opacity: 1.0;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: 999999; }
