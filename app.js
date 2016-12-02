@@ -6,10 +6,11 @@ var app = angular.module("Demo", ["ngAnimate"]);
 // SIMULATING NETWORK LATENCY AND LOAD TIME. We haven't included the ngApp
 // directive since we're going to manually bootstrap the application. This is to
 // give the page a delay, which it wouldn't normally have with such a small app.
+
 setTimeout(
     function asyncBootstrap() {
         angular.bootstrap(document, ["Demo"]);
-    }, (5 * 1000));
+    }, (3000));
 
 // -------------------------------------------------- //
 // -------------------------------------------------- //

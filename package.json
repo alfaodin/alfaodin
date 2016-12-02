@@ -1,0 +1,19 @@
+{
+  "name": "alfaodin.github.io",
+  "version": "1.0.0",
+  "description": "My CV",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaodin/alfaodin.github.io.git"
+  },
+  "author": "Christian Cartes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfaodin/alfaodin.github.io/issues"
+  },
+  "homepage": "https://github.com/alfaodin/alfaodin.github.io#readme"
+}
