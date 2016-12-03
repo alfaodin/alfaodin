@@ -1,6 +1,6 @@
-div.m-app-loading {
+.m-app-loading {
     position: fixed;
-    div.animated-container {
+    .animated-container {
         background-color: #333333;
         bottom: 0px;
         left: 0px;
@@ -20,7 +20,7 @@ div.m-app-loading {
             opacity: 0;
         }
     }
-    div.messaging {
+    .messaging {
         color: #FFFFFF;
         font-family: monospace;
         left: 0px;
